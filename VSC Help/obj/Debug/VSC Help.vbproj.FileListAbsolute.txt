@@ -1,0 +1,11 @@
+C:\Users\dbutchy\AppData\Local\Temporary Projects\VSC Help\bin\Debug\VSC Help.exe.config
+c:\Projects\VSC Help\VSC Help\bin\Debug\VSC Help.exe.config
+c:\Projects\VSC Help\VSC Help\bin\Debug\VSC Help.exe
+c:\Projects\VSC Help\VSC Help\bin\Debug\VSC Help.pdb
+c:\Projects\VSC Help\VSC Help\bin\Debug\VSC Help.xml
+c:\Projects\VSC Help\VSC Help\obj\Debug\VSC_Help.frmMain.resources
+c:\Projects\VSC Help\VSC Help\obj\Debug\VSC_Help.Resources.resources
+c:\Projects\VSC Help\VSC Help\obj\Debug\VSC Help.vbproj.GenerateResource.Cache
+c:\Projects\VSC Help\VSC Help\obj\Debug\VSC Help.exe
+c:\Projects\VSC Help\VSC Help\obj\Debug\VSC Help.xml
+c:\Projects\VSC Help\VSC Help\obj\Debug\VSC Help.pdb
